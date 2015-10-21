@@ -1,0 +1,5 @@
+[
+  {"name": "AAA Technology",                                  "company": "BASF SE",           "number": "EP 13 198 908.9 (EN)", "specialist": "1st Examiner", "date": "11.02.2013"},
+  {"name": "Colgate-Palmolive Toothbrush",                    "company": "Colgate-Palmolive", "number": "EP 13 198 908.9 (EN)", "specialist": "1st Examiner", "date": "14.01.2013"},
+  {"name": "DOM Event Listeners in a Component",              "company": "ReactJS",           "number": "Euro PCTbis",          "specialist": "2st Examiner", "date": "30.01.2013"}
+]

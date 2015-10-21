@@ -1,0 +1,8 @@
+[
+  {"selected": false, "shortName": "H",   "name": "Home Dashboard"},
+  {"selected": false, "shortName": "WM",  "name": "Workmanager", "number1": 5,  "number2": 8,  "number3": 67},
+  {"selected": false, "shortName": "S",   "name": "Stockmanager",  "number1": 22, "number2": 23, "number3": 340},
+  {"selected": false, "shortName": "D",   "name": "Director Module", "number1": 0, "number2": 10, "number3": 86},
+  {"selected": false, "shortName": "C",   "name": "Classification", "number1": 5,  "number2": 23, "number3": 31},
+  {"selected": false, "shortName": "eSt", "name": "eStore"}
+]
